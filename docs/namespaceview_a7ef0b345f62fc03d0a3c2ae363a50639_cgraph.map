@@ -1,0 +1,6 @@
+<map id="view.display_land_with_ash" name="view.display_land_with_ash">
+<area shape="rect" id="node2" href="$namespaceview.html#a67e94273b6e958814337206adcededb1" title="This function load the ash, take information about the center. " alt="" coords="259,5,382,32"/>
+<area shape="rect" id="node3" href="$namespaceview.html#a8427ab346500f33881a5836374a831ef" title="Here, we converte the distance from km to degree. " alt="" coords="237,56,404,83"/>
+<area shape="rect" id="node4" href="$namespaceview.html#ae905263fc3aec529a940acb67c9d3dd0" title="Change the referential of a point with a simple cross&#45;product. " alt="" coords="251,107,391,133"/>
+<area shape="rect" id="node5" href="$namespaceview.html#a68c5135b1c31abb7bf04fd10a7e53fb2" title="Module: All the program of viewing land. " alt="" coords="269,157,373,184"/>
+</map>

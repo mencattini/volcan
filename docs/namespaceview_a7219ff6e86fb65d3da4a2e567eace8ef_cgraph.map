@@ -1,0 +1,10 @@
+<map id="view.main" name="view.main">
+<area shape="rect" id="node2" href="$namespaceview.html#a0fe1266c8093a68ffbf1fe8bb7c9e3dc" title="Parse all the argument.Manage error.We use argparse lib. " alt="" coords="189,35,283,62"/>
+<area shape="rect" id="node3" href="$namespaceview.html#ae71b788c4ca5f4b7e2645ff7863bbd53" title="This function display the land, with some possible option. " alt="" coords="135,86,337,112"/>
+<area shape="rect" id="node8" href="$namespaceview.html#a7ef0b345f62fc03d0a3c2ae363a50639" title="Here we load the cender in a matrix, get the land matrix equivalent, and plot all of that together..." alt="" coords="144,136,328,163"/>
+<area shape="rect" id="node4" href="$namespaceview.html#a8427ab346500f33881a5836374a831ef" title="Here, we converte the distance from km to degree. " alt="" coords="385,86,552,112"/>
+<area shape="rect" id="node5" href="$namespaceview.html#ae905263fc3aec529a940acb67c9d3dd0" title="Change the referential of a point with a simple cross&#45;product. " alt="" coords="600,35,740,62"/>
+<area shape="rect" id="node6" href="$namespaceview.html#a4ea2ce19242eaf9b19d15a214e179f93" title="Take a matrix, and resize it with correct width and heigth. " alt="" coords="399,35,538,62"/>
+<area shape="rect" id="node7" href="$namespaceview.html#a68c5135b1c31abb7bf04fd10a7e53fb2" title="Module: All the program of viewing land. " alt="" coords="417,136,521,163"/>
+<area shape="rect" id="node9" href="$namespaceview.html#a67e94273b6e958814337206adcededb1" title="This function load the ash, take information about the center. " alt="" coords="407,238,530,264"/>
+</map>

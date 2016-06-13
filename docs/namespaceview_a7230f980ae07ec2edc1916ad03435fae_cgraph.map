@@ -1,0 +1,7 @@
+<map id="view.display_land" name="view.display_land">
+<area shape="rect" id="node2" href="$namespaceview.html#a35db7ca4c7f17cf710387939373f73c1" title="Find the minimal and maximal value for longitude and latitude. " alt="" coords="187,5,310,32"/>
+<area shape="rect" id="node3" href="$namespaceview.html#a72c6336fb9a90cf1a2d4b80190847c21" title="Change the referential of a point with a simple cross&#45;product. " alt="" coords="179,56,319,83"/>
+<area shape="rect" id="node4" href="$namespaceview.html#a4ea2ce19242eaf9b19d15a214e179f93" title="Take a matrix, and resize it with correct width and heigth. " alt="" coords="179,107,318,133"/>
+<area shape="rect" id="node5" href="$namespaceview.html#a147c5fafee59aabc02229d681e34c277" title="Module: All the programme of viewing land. " alt="" coords="187,157,311,184"/>
+<area shape="rect" id="node6" href="$namespaceview.html#a68c5135b1c31abb7bf04fd10a7e53fb2" title="Compute the display by an angle. " alt="" coords="197,208,301,235"/>
+</map>
