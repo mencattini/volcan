@@ -1,4 +1,6 @@
 # Visualisation de cendres sur une carte
+
+## Introduction
 Voici mon projet de bachelor. Il permet d'afficher des dépôts de particules contenus dans un fichier *.h5* sur une carte provenant d'un fichier *.tiff*.
 
 Voici un exemple d'utilisation:  
@@ -12,7 +14,8 @@ Il est à noté qu'en appelant:
 `
  ./view.py --help
  `
- 
+
+## Dépendances
 Vous obtiendrez le détail des paramètres.  
 Le projet est écrit en Python2.7, en voici les dépendances:
 
@@ -24,3 +27,7 @@ Le projet est écrit en Python2.7, en voici les dépendances:
 * numpy
 * scipy
 * sys 
+
+## Documentations
+Dans le dossier `docs/`, se trouve la documentation **Doxygen** de mon projet. Afin de comprendre comment fonctionne le code.
+
