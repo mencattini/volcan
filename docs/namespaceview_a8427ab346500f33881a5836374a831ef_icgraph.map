@@ -1,0 +1,5 @@
+<map id="view.convert_information" name="view.convert_information">
+<area shape="rect" id="node2" href="$namespaceview.html#ae71b788c4ca5f4b7e2645ff7863bbd53" title="This function display the land, with some possible option. " alt="" coords="220,5,423,32"/>
+<area shape="rect" id="node4" href="$namespaceview.html#a7ef0b345f62fc03d0a3c2ae363a50639" title="Here we load the cender in a matrix, get the land matrix equivalent, and plot all of that together..." alt="" coords="229,56,413,83"/>
+<area shape="rect" id="node3" href="$namespaceview.html#a7219ff6e86fb65d3da4a2e567eace8ef" title="Main function. " alt="" coords="471,31,552,57"/>
+</map>

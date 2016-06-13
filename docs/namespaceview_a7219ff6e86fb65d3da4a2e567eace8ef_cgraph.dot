@@ -1,0 +1,27 @@
+digraph "view.main"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="view.main",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="view.parsing",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceview.html#a0fe1266c8093a68ffbf1fe8bb7c9e3dc",tooltip="Parse all the argument using the \"py\" lib : argparse. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="view.display_land_without_ash",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceview.html#ae71b788c4ca5f4b7e2645ff7863bbd53",tooltip="This function display the land, with some possible option. "];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="view.convert_information",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceview.html#a8427ab346500f33881a5836374a831ef",tooltip="Here, we converte the distance from km to degree. "];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="view.lat_long_2_x_y",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceview.html#ae905263fc3aec529a940acb67c9d3dd0",tooltip="Change the referential of a point with a simple cross-product. "];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="view.rescale_matrix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceview.html#a4ea2ce19242eaf9b19d15a214e179f93",tooltip="Take a matrix, and resize it with correct width and heigth. "];
+  Node6 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="view.hillshade",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceview.html#a68c5135b1c31abb7bf04fd10a7e53fb2",tooltip="Module: All the program of viewing land. "];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="view.display_land_with_ash",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceview.html#a7ef0b345f62fc03d0a3c2ae363a50639",tooltip="Here we load the cender in a matrix, get the land matrix equivalent, and plot all of that together..."];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="view.load_cender",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespaceview.html#a67e94273b6e958814337206adcededb1",tooltip="This function load the ash, take information about the center. "];
+  Node8 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

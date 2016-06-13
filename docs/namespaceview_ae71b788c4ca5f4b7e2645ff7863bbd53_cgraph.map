@@ -1,0 +1,6 @@
+<map id="view.display_land_without_ash" name="view.display_land_without_ash">
+<area shape="rect" id="node2" href="$namespaceview.html#a8427ab346500f33881a5836374a831ef" title="Here, we converte the distance from km to degree. " alt="" coords="256,5,423,32"/>
+<area shape="rect" id="node3" href="$namespaceview.html#ae905263fc3aec529a940acb67c9d3dd0" title="Change the referential of a point with a simple cross&#45;product. " alt="" coords="471,81,611,108"/>
+<area shape="rect" id="node4" href="$namespaceview.html#a4ea2ce19242eaf9b19d15a214e179f93" title="Take a matrix, and resize it with correct width and heigth. " alt="" coords="270,107,409,133"/>
+<area shape="rect" id="node5" href="$namespaceview.html#a68c5135b1c31abb7bf04fd10a7e53fb2" title="Module: All the program of viewing land. " alt="" coords="287,157,391,184"/>
+</map>

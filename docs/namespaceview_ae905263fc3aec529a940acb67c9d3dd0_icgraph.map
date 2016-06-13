@@ -1,0 +1,6 @@
+<map id="view.lat_long_2_x_y" name="view.lat_long_2_x_y">
+<area shape="rect" id="node2" href="$namespaceview.html#a4ea2ce19242eaf9b19d15a214e179f93" title="Take a matrix, and resize it with correct width and heigth. " alt="" coords="193,5,332,32"/>
+<area shape="rect" id="node3" href="$namespaceview.html#ae71b788c4ca5f4b7e2645ff7863bbd53" title="This function display the land, with some possible option. " alt="" coords="380,56,583,83"/>
+<area shape="rect" id="node5" href="$namespaceview.html#a7ef0b345f62fc03d0a3c2ae363a50639" title="Here we load the cender in a matrix, get the land matrix equivalent, and plot all of that together..." alt="" coords="389,107,573,133"/>
+<area shape="rect" id="node4" href="$namespaceview.html#a7219ff6e86fb65d3da4a2e567eace8ef" title="Main function. " alt="" coords="631,81,712,108"/>
+</map>
